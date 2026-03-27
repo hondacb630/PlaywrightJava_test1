@@ -1,0 +1,23 @@
+{
+  "name": "playwrightjava_test1",
+  "version": "1.0.0",
+  "description": "altoro.testfire.net",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hondacb630/PlaywrightJava_test1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/hondacb630/PlaywrightJava_test1/issues"
+  },
+  "homepage": "https://github.com/hondacb630/PlaywrightJava_test1#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.5.0"
+  }
+}
